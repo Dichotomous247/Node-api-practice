@@ -1,2 +1,2 @@
 # Node-api-practice
-Practise node js api
+Practice node js api
