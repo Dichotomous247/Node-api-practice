@@ -1,0 +1,25 @@
+{
+  "name": "node-api-practice",
+  "version": "1.0.0",
+  "description": "Practice api in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dichotomous247/Node-api-practice.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Aaron Sheoran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dichotomous247/Node-api-practice/issues"
+  },
+  "homepage": "https://github.com/Dichotomous247/Node-api-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
